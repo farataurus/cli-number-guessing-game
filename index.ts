@@ -20,4 +20,3 @@ if(answers.userGuessNumber === randomNumber ){
     
 }
 
-let a = "farah"

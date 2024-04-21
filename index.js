@@ -18,4 +18,3 @@ if (answers.userGuessNumber === randomNumber) {
 else {
     console.log("you guessed wrong number");
 }
-let a = "farah";
